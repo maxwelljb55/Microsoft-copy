@@ -1,0 +1,45 @@
+body{ margin: 0; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif; }
+.menu{ background-color: #f2f2f2; line-height: 40px; width: 100%; }
+.cookies-text{ color: #323232; font-size: 18px; margin: auto; text-align: center; }
+.main-menu{ height: 55px; width: 85%; margin: auto; display: flex;}
+.container{ width: 85%; margin: auto; background-color: #f2f2f2; height: 100%; padding: 20px; text-align: left;}
+.container h2 {margin-bottom: 10px; font-size: 20px;}
+.container p {margin-top: 0;}
+.container img{ max-width:100%; }
+.container img:hover{ opacity:0.7; }
+.menu-items{padding-top: 17px; }
+.items{ text-decoration: none; color: #323232; margin-left: 20px;  }
+.items:hover{ border-bottom: 2px solid teal; }
+.login-menu{ position: relative; line-height: 55px;}
+.btn{height:40px; width: 130px; background-color: white; border: 2px solid #ccc; left: 35px; top: 8px; position: absolute;}
+.btn:hover { background-color: #e8e8e8;}
+span{color: red;}
+.row{ display: flex; width: 90%; margin: 0 auto; flex-wrap: wrap;}
+.row-width{width:62%;}
+.col{ width: 25%; height: 100%; padding: 10px; text-align: center; flex: 1;}
+.col-text{ font-size: 19px; }
+.btn-dark{ width: 120px; height: 50px; background-color: #000; color: #fff; font-size: 15px;}
+.surface{width: 50%;}
+.card{width: 85%; height: 100px; text-align: center; display: inline-block; font-size: 14px;}
+.shop{ font-size:17px; color:#06F !important; text-transform:uppercase; line-height: 25px; }
+.col a {text-decoration:none;}
+.col a:link {color: #000;}
+.card h3:hover { text-decoration:underline;}
+.col a:hover {color: #000; text-decoration:underline;}
+.col a:active {color: #000;}
+.col a:visited {color: #000;}
+.col ul a:link {color: grey;}
+.col ul a:active {color: grey;}
+.col ul a:visited {color: grey;}
+.bottom-list a {text-decoration:none; color: grey;}
+.bottom-list a:hover {text-decoration:underline;}
+.bottom-list ul a:active {color: grey;}
+.bottom-list ul a:visited {color: grey;}
+.container-bg{ background:none;}
+footer{background-color: #f2f2f2; font-family:Arial, Helvetica, sans-serif;}
+footer ul { list-style:none; line-height: 30px; font-size: 12px; color: grey;}
+.list-title{ font-weight:bold; font-size:17px;}
+.bottom-list { text-align:right; padding-right:250px; margin:0; padding-bottom: 30px; }
+.bottom-list li{ list-style:none; display:inline; padding-left:20px; }
+.float-img{ float: left; padding-left: 120px; }
+.block-img{ padding: 0 0 35px 120px; }
